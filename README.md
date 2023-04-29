@@ -6,19 +6,19 @@ pagina 02  ![image](https://user-images.githubusercontent.com/58978196/235282009
 pagina 03  ![image](https://user-images.githubusercontent.com/58978196/235282050-8791e5f3-6506-49bb-9ab7-79cb9d1048f0.png)
 pagina 05  ![image](https://user-images.githubusercontent.com/58978196/235282064-67ce5747-c161-48bc-b051-3bfc4b78b4d7.png)
 pagina 06  ![image](https://user-images.githubusercontent.com/58978196/235282104-b67d7d5e-a094-463c-a699-cf9d38513f37.png)
-NOTA : na pagina 06 dessa primeira versao SERA MOSTRADO O GIT DE UM OUTRO DEV, deixo claro aqui que esse portfolio foi inspirado no feito poe ele 
-então, deixo aqui meus creditos 
-NOTA 02: Disse que essa é a primeira versão pois pretendo estender e deixar com bastante conteudo referente a não apenas a minha vida acadademica 
-mas todas as minhas pesquisas e que de fato sai do fato de ser apenas um curriculo bonito e de DEV, eu, gosto de me desafiar  mas quero deixar claro que 
+https://www.figma.com/file/hUwQaKiZxeUpEV0QEJRlfX/PORFOLIO-RPG-PIXEL-DEVELOPER-(Community)-(Community)?node-id=0-1&t=28SJVDIDizMiwoC5-0
+NOTA: na página 06 dessa primeira versão SERA MOSTRADO O GIT DE Outro DEV, deixo claro aqui que esse portfólio foi inspirado no feito por ele 
+então, deixo aqui meus créditos 
+NOTA 02: Disse que essa é a primeira versão, pois pretendo estender e deixar com bastante contendo referente a não apenas a minha vida acadêmico
+mas todas as minhas pesquisas e que de fato sai do fato de ser apenas um currículo bonito e de DEV, eu, gosto de me desafiar, mas quero deixar claro que 
 quero desenvolver minha carreira como backend ou trabalhos co-relatos.
 
-Trabalho em TI  a muito mais tempo a qual sou DEV então quero mostrar tbm todos os meus certificados.
+Trabalho em TI a muito mais tempo a qual sou DEV então quero mostrar também todos os meus certificados.
 
 
-CADA PARTE DESTE PORTFOLIO será feito em uma linguagem backend a qual sei, por exemplo, deixarei toda parte de certificados da area de redes e suporte feito no backend PHP, deixarei a pagina de ABOUT ME feita em backend JAVA WEB, 
+CADA PARTE DESTE Portfólio será feito em uma linguagem backend a qual sei, por exemplo, deixarei toda parte de certificados da areá de redes e suporte feito no backend PHP, deixarei a paginar de ABOUT ME feita em backend JAVA WEB, 
 
-minha pretenção neste projeto é me desafiar ao maximo pois com isso quero dar de fato, E FINALMENTE um novo passo em minha vida profissional, tentarei expor e com clareza, tanto neste README  e tambem nos codigos e commits meu conhecimento aplicado a este projeto 
-
+minha preteção neste projeto é me desafiar ao máximo, pois com isso quero dar de fato, E FINALMENTE um novo passo em minha vida profissional, tentarei expor e com clareza, tanto neste README e também nos códigos e commits e meu conhecimento aplicado a este projeto 
 INFORMAÇÕES TECNICAS:
 FERRAMENTAS USADAS NO PROJETO : PORTFOLIO 
 FRONT END : HTML, CSS, JAVASCRIPT( TALVEZ NODE, AINDA TO ANALIZANDO )
