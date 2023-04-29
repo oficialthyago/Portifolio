@@ -14,3 +14,23 @@ quero desenvolver minha carreira como backend ou trabalhos co-relatos.
 
 Trabalho em TI  a muito mais tempo a qual sou DEV então quero mostrar tbm todos os meus certificados.
 
+
+CADA PARTE DESTE PORTFOLIO será feito em uma linguagem backend a qual sei, por exemplo, deixarei toda parte de certificados da area de redes e suporte feito no backend PHP, deixarei a pagina de ABOUT ME feita em backend JAVA WEB, 
+
+minha pretenção neste projeto é me desafiar ao maximo pois com isso quero dar de fato, E FINALMENTE um novo passo em minha vida profissional, tentarei expor e com clareza, tanto neste README  e tambem nos codigos e commits meu conhecimento aplicado a este projeto 
+
+INFORMAÇÕES TECNICAS:
+FERRAMENTAS USADAS NO PROJETO : PORTFOLIO 
+FRONT END : HTML, CSS, JAVASCRIPT( TALVEZ NODE, AINDA TO ANALIZANDO )
+FRAMEWORK: VUE E( TALVEZ NODE, AINDA TO ANALIZANDO )
+BIBLIOTECAS: BOOTSTRAP
+BACKEND PHP E JAVA
+FRAMEWOR: LARAVEL, SPRINGBOOT E POSSIVELMENTE ANGULAR 
+BIBLIOTECA: AINDA NÃO SEI EM EXATO 
+BANCO DE DADOS: MYSQL E MMONGODB 
+NOTA: SIM, ISSO MESMO, TENTAREI DEIXAR DOIS BANCO DE DADOS NO MESMO PORTFOLIO, PQ ?, MINHA INTEÇÃO AQUI É MOSTRAR E EXPLICAR COMO FIZ 
+DEVOPS: GIT, GITHUB
+DOMINIO: VERCEL
+LOCAL DO BANCO: VERCEU/AWS/AZURE 
+
+Sei e entendo que a primeira vista parece sim, um projeto beem ousado para um simples junior, mas entenda, pequenos projetos tendem a me querer correr e não prestar atenção e já os grandes tendem a me azer parar e olhar o todo
