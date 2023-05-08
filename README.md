@@ -1,10 +1,12 @@
-# Portifolio <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-Atualização : dia 08/05
-Estou entendo melhor como funciona o java WEB e mais sobre CSS (meu ponto fraco em front) o projeto não esta parado, apenas estou estudando  </br>
+<h1 align="center">Portifolio</h1>
 
- </br>OLá pra você que esta aqui, esse aqui é o README do meu portfolio, nele eu vou deixar algumas coisas bem importantes a serem informadas.
+
+## Descrição do Projeto
+<p align="center">OLá pra você que esta aqui, esse aqui é o README do meu portfolio, local onde deixarei todos os meus projetos dentro e fora da area de TI</p>
+<h4 align="center"> 
+	🚧  Portfolio 🚀 Em construção...  🚧
+</h4>
+
  </br>  1° todo o design foi feito pelo figma :  </br>
 pagina 01  ![image](https://user-images.githubusercontent.com/58978196/235281991-db876853-6597-4946-bb50-c58041dfe93d.png)</br>
 pagina 02  </br>![image](https://user-images.githubusercontent.com/58978196/235282009-87e13086-901c-407d-a6d5-bbcb58fca146.png)</br>
