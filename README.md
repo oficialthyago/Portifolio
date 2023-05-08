@@ -40,3 +40,7 @@ DOMINIO: VERCEL</br>
 LOCAL DO BANCO: VERCEU/AWS</br>
 
 Sei e entendo que a primeira vista parece sim, um projeto beem ousado para um simples junior, mas entenda, pequenos projetos tendem a me querer correr e não </br>prestar atenção e já os grandes tendem a me fazer parar e olhar o todo
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
